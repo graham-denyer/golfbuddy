@@ -5,7 +5,6 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
-  "start_url": "https://graham-denyer.github.io/golfbuddy",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
